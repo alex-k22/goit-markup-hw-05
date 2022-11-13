@@ -501,6 +501,8 @@ img {
 }
 .cards .text {
 	padding: 20px 24px;
+	border-left: 1px solid #eeeeee;
+	border-right: 1px solid #eeeeee;
 }
 .cards .discription {
 	font-size: 16px;
@@ -513,7 +515,6 @@ img {
 	width: 370px;
 	margin-bottom: 30px;
 	margin-right: 30px;
-	border: 1px solid #eeeeee;
 	transition: box-shadow var(--animation-type);
 }
 .cards .card:nth-child(3n) {
